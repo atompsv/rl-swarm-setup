@@ -44,15 +44,16 @@ Service is running on port 3000!
 ---
 
 ## 3️⃣ Connect to RL-Swarm
-<img width="1600" height="908" alt="image" src="https://github.com/user-attachments/assets/fab7853d-ca21-402c-be65-0742160ce5f8" />
-
 1. Open the **LocalTunnel URL** in your browser.
 2. Fill in your **public IP**.
+
+<img width="1600" height="908" alt="image" src="https://github.com/user-attachments/assets/fab7853d-ca21-402c-be65-0742160ce5f8" />
+
+3. Login using your **email and passcode**.
    
 <img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/1b43f01b-2183-4e64-93eb-4890d76f8ab8" />
 
-4. Login using your **email and passcode**.
-5. Once logged in successfully, return to your terminal and press CTRL+C to exit the setup script.
+4. Once logged in successfully, return to your terminal and press CTRL+C to exit the setup script.
 
 Note: Exiting here does not stop the service; it continues running in the background via screen.
 
@@ -89,7 +90,9 @@ Would you like to push models you train in the RL swarm to the Hugging Face Hub?
 ```
 Connected to Gensyn Testnet
 ```
-<img width="1600" height="499" alt="image" src="https://github.com/user-attachments/assets/26b6066f-6eb6-4ce6-856a-6bc366021203" />
+
+<img width="1598" height="839" alt="image" src="https://github.com/user-attachments/assets/62e46a8e-2699-42b7-8955-e91be5fba7d2" />
+
 
 ---
 
