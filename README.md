@@ -36,6 +36,9 @@ Waiting for service to start...
 Service is running on port 3000!
 ```
 
+<img width="1600" height="351" alt="image" src="https://github.com/user-attachments/assets/60df8856-091f-4dd1-a4fb-2cca3a0a5e3b" />
+
+
 * A **LocalTunnel URL** will also appear.
 
 ---
@@ -50,6 +53,7 @@ Service is running on port 3000!
 
 4. Login using your **email and passcode**.
 5. Once logged in successfully, return to your terminal and press CTRL+C to exit the setup script.
+
 Note: Exiting here does not stop the service; it continues running in the background via screen.
 
 
@@ -69,7 +73,9 @@ screen -ls
 ```bash
 screen -r 66661.swarm-session
 ```
-noted: 66661.swarm-session is ur screen id that u got from using **screen -ls**. 
+
+Noted: 66661.swarm-session is ur screen id that u got from using **screen -ls**. 
+
 3. You will see prompts like:
 
 ```
