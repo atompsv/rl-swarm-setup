@@ -118,7 +118,7 @@ To stop the swarm and cleanup:
 
 * Make sure **port 3000** is free before starting.
 * LocalTunnel requires an **internet connection**.
-* Scripts are safe to run multiple times — they handle cleanup automatically.
+* Scripts are safe to run multiple times, they handle cleanup automatically.
 
 ---
 
