@@ -62,13 +62,14 @@ Note: Exiting here does not stop the service; it continues running in the backgr
 ```bash
 screen -ls
 ```
+<img width="825" height="132" alt="image" src="https://github.com/user-attachments/assets/9b8bb74f-e900-4e66-b5be-5fd04dc52bc6" />
 
 2. Reattach to the swarm session:
 
 ```bash
-screen -r swarm-session
+screen -r 66661.swarm-session
 ```
-
+noted: 66661.swarm-session is ur screen id that u got from using **screen -ls**. 
 3. You will see prompts like:
 
 ```
@@ -93,7 +94,8 @@ Connected to Gensyn Testnet
 3. Scroll to **"RL Swarm : Your Nodes"**
 4. If you see your nodes listed → you successfully joined the swarm.
 
-<img width="1600" height="685" alt="image" src="https://github.com/user-attachments/assets/50773115-f81c-4c0c-b71d-318aa99a7ad6" />
+<img width="1599" height="685" alt="image" src="https://github.com/user-attachments/assets/3a6a0b32-3912-4504-8909-f4f4fbca80cd" />
+
 
 ---
 
@@ -109,7 +111,7 @@ CTRL + A, then D
 
 ---
 
-## 7️⃣ Stop RL-Swarm
+## 7️⃣ Stop RL-Swarm (If u want)
 
 To stop the swarm and cleanup:
 
